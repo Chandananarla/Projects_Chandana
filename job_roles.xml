@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus lang="en">
+<WebDeveloper>
+  <Skills>(HTML,Hypertext Markup Language), (Cascading Style Sheets,CSS), (SQL, Structured Query Language), (PHP,Hypertext Preprocessor), (Javascript), (Python), (Laravel), (Django), (Angular,AngularJS), (ReactJS, React), (JQuery),(.NET,ASP.NET),(Ruby),(Node.js)
+    </Skills>
+    <Education>
+      Computer Science, Computer Programming, Computer Engineering, Information Technology, Software Engineering
+    </Education>
+    <Experience>
+      Web Developer, Web Designer, Front End, UI Designer, UX Designer, Full Stack
+    </Experience>
+  </WebDeveloper>
+  <DataMiningSpecialist>
+    <Skills>R, Python, Java, SQL, Scala, SAS, NoSQL, Databox, Zoho Analytics,Google Chart, Tableau, Power BI, Qlikview, Apache Spark, Excel, SAP, TIBCO, Grafana, WEKA, Hadoop,HIVE, HDFS, Highcharts, D3, Fusion chart, Canvas, nltk, pandas, numpy, MATLAB, Logistic Regression,Linear Regression, Gradient Boost, (SVM,Support Vector Machine), Naive Bayes, (K nearest neighbor,KNN), Neural Network, Natural Language Processing, Clustering, Classification, Big Data, MapReduce, Machine Learning, (ETL,Extraction Transformation and Loading)
+    </Skills>
+    <Education>
+      Data Science, Data Analytics, Statistical and Data Science, Computer Science, Predictive Analytics, Big Data Analytics
+    </Education>
+    <Experience>
+      Data Analyst, Data Scientist, Data Engineer, Business Intelligence Analyst
+    </Experience>
+  </DataMiningSpecialist>
+  <DatabaseAdministrator>
+    <Skills>SQL, MySQL, TSQL, PLSQL, Oracle, Microsoft SQL Server, IBM, MongoDB, Cassandra, Salesforce, PostgreSQL, Database Queries, Theory, Design, RDBMS, Distributed Computing Architectures, REST, ODBC, JDBC, SQLJ, Java EE, .NET
+    </Skills>
+    <Education>
+      Computer Science, Information Science, Information Systems, Management of Information Systems
+    </Education>
+    <Experience>
+      Systems DBA, Database Analyst, Application DBA, Database Architect, Data Warehouse administrator, Database Administrator, Cloud DBA
+    </Experience>
+  </DatabaseAdministrator>
+  <Tester>
+    <Skills>Java, Python, C#, Javascript, Ruby, PHP, Groovy, VBScript, Selenium, Appium, Cucumber, Robot Framework , Watir, Katalon, SOAP UI, JMeter, UFT
+    </Skills>
+    <Education>
+      Electrical Engineering, Information Technology, Finance and HR, Computer Sciences, First Division, Information Management, Law Enforcement/Criminal Justice, Human Resources MSW
+    </Education>
+    <Experience>
+      System Test Release Coordinator, System Test Team Lead, System Tester, Application System Tester, Performing System Test Activities, Test Engineer, Software Engineer, Electrical/Oem Support Engineer, Software Engineer firmware, Application Design Engineer, Oracle DBMS Job Scheduler, Resident Engineer Validation Tester, Embedded Test Engineer, Qa Tester Roles And Responsibilities, Software Engineering Qa Analyst, Subject Matter Expert
+    </Experience>
+  </Tester>
+  <TeamLeader>
+    <Skills>
+        Project Management, Software Development, Software Architecture and Design, Key Account Management, Customer Success, Software-as-a-Service, Client Service, Business Development, Renewal Management, EDI, Electronic Data Interchange, ERP Systems, File Transfer Protocol, COBOL, EDI
+    </Skills>
+    <Education>
+       	Geography, Information Technology, Computer Science, Computer Programming, Software Engineering, Masters Information Technolgy, IT Management, Economics, ITIL Practitioner, Server Virtualization
+    </Education>
+    <Experience>
+      Senior Information Assurance Analyst, Information Assurance Analyst, Intrusion Prevention System (Ips) Team Technical Lead Supervisor, Sr Spatial Data Analyst, Director Software Engineering, Software Eng Director, EDI Systems Analyst, EDI Specialist, Lead Support Analyst, Senior Support Analyst, Assistant Front End Manager
+    </Experience>
+  </TeamLeader>
+  <NetworkAdministrator>
+    <Skills>
+        IP Network Address Design, Cisco Routers, Cisco IOS / CAT Switches, Cisco Nexus (NX-OS) Switches, WAN Provisioning, IP Routing, ATM Ox, Service Provider Routing, HSRP, VRRP, GLBP, Cisco VSS, Hosted VoIP, F5 Load Balancer LTM, Juniper SRX, MPLS and MPLS VPN
+    </Skills>
+    <Education>
+        B.S. Economics and Statistics, Computer and Information science, Computer Information Systems, Information Technology
+    </Education>
+    <Experience>
+        Senior Software Engineer, Network Consulting Engineer, Sr. Network Engineer, Network Infrastructure and VoIP Architect, E Commerce Infrastructure Cloud Architect, Principal E Commerce Infrastructure Cloud Architect, Sr. Enterprise Solutions Infrastructure Architect, Sr. Systems Server Engineer,  	Advanced Professional Services Resident Engineer, Global Solutions Architect
+    </Experience>
+  </NetworkAdministrator>
+</corpus>
